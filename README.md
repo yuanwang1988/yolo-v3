@@ -1,3 +1,6 @@
+# Citation:
+This is a fork of the Tensorflow YOLO-V3 Implementation by heartkilla for use in CS230 Project
+
 # Yolo v3 Object Detection in Tensorflow
 Yolo v3 is an algorithm that uses deep convolutional neural networks to detect objects. <br> <br>
 [Kaggle notebook](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow) 
